@@ -4,6 +4,8 @@ This is a simple example for a installation of [react native](https://reactnativ
 
 # Installation process
 
+(of course you can also clone this repository or use the template function)
+
 1. Create a new react native project using `expo init <project_name>` and open this or open up your existing project.
 2. Install tailwind-rn `npm install tailwind-rn`
 3. Setup tailwind-rn using npx `npx setup-tailwind-rn` or using the manual way (see tailwind-rn readme)
