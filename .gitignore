@@ -9,8 +9,14 @@ npm-debug.*
 *.mobileprovision
 *.orig.*
 web-build/
+
+# Lock files
 package-lock.json
 yarn.lock
+
+# Will be compiled by "yarn dev:tailwind"
+tailwind.css
+tailwind.js
 
 # macOS
 .DS_Store
