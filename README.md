@@ -1,4 +1,4 @@
-# tailwind-rn Example
+# tailwind-rn example
 
 This is a simple example for a installation of [react native](https://reactnative.dev/) and [tailwind-rn](https://github.com/vadimdemedes/tailwind-rn).
 
